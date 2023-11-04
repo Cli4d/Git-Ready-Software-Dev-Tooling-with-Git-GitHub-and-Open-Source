@@ -1,7 +1,7 @@
-# Game Of Learners Vision Board Challenge
+#Vision Board Challenge
 ## Objective
 
-Create a vision board using memes/images that represents your team's goals for Game of Learners Season 4.
+Create a vision board using memes/images that represents your team's goals for a fictional project that you are working on.
 
 ## Instructions
 
@@ -20,6 +20,7 @@ git clone <URL>
 Replace <URL> with the URL of your forked repository.
 
 ### Step 3: Create a Branch 
+
 Each team member should create a new branch with a descriptive name for their contribution. For example:
 
 ```bash
@@ -27,7 +28,7 @@ git checkout -b cliff-add-project-goals
 ```
 
 ### Step 4: Add memes/images 
-Using Giphy, find memes/images that represent your team's goals for Game of Learners. 
+Using Giphy, find memes/images that represent your team's goals for.
 
 Each team member should add their memes/images to the vision_board.md file in the repository using the following markdown format:
 
@@ -62,10 +63,10 @@ Each team member should review their teammates' pull requests and leave comments
 After reviewing and resolving any conflicts, merge the pull requests into the main branch of the repository.
 
 ### Celebrate 
-Congratulations! You have successfully created a vision board using memes/images that represents your team's goals for Game of Learners Season 4. 
+Congratulations! You have successfully created a vision board using memes/images that represents your team's goals.
 
 ## Share your creation
-Share your vision board with the Game of Learners community using the hashtag #GOLvisionboard, #GOLSN4, #GOLSeason4, #GameofLearners
+Share your vision board with the community
 
 ### Best Practices
 - Create meaningful branch names that describe your contribution.
